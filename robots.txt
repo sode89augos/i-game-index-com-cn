@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sode89augos.github.io/i-game-index-com-cn/sitemap.xml
